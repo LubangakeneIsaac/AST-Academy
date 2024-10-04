@@ -1,0 +1,11 @@
+body{background-color:  aqua;text-align: center;}
+p{font-size: medium;color: blueviolet;}
+h1{color: blue;font-style: geogia;}
+caption{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: rgb(49, 38, 2);}
+table{
+    text-align: center; border-collapse: collapse;
+}
+ th,td{ border: 1px solid black;padding: 5px;color: rgb(65, 28, 3);}
+ th{ text-align: left ; color: green;font-size: large;}
+ p{ font-size: large;font-family:fantasy;}
+ h2{color: rgb(27, 24, 219);}
